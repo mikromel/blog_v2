@@ -3,7 +3,6 @@ title: "mardown test"
 layout: post
 author: "taken from some site"
 categories: test
-use_mermaid = true
 ---
 
 # Welcome to StackEdit!
